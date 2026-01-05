@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.idea
+.todo
+*.log
+*.backup
+
+.venv/
+venv/
+env/
+*.onnx
+models/
+.vscode/
